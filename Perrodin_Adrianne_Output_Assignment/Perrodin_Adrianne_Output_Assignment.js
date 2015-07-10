@@ -6,6 +6,12 @@
 //Output Assignment
 
 var jobPosition;
+var timeInService;
+
+timeInService = 4; //assigning number
 jobPosition = "Flight Simulator Technician"; //assigning a string
+
 console.log("My current job I work as a " + jobPosition);
+console.log("I spent " +timeInService, "years in the military");
+
 
