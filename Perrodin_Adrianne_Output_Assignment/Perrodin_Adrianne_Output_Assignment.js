@@ -11,7 +11,7 @@ var confidence;
 
 timeInService = 4; //assigning number
 jobPosition = "Flight Simulator Technician"; //assigning a string
-confidence = true;
+confidence = true; //assigning boolean
 
 
 console.log("My current job I work as a " + jobPosition);
